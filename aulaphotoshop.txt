@@ -1,0 +1,4 @@
+git init 
+git commit -m "primeiro commit"
+git remote add origin (endereço do repositório)
+
